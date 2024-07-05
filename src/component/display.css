@@ -1,0 +1,29 @@
+.main{
+    background-color: aliceblue;
+    margin: 0% 20%;
+    text-align: center;
+    height: 1080px;
+}
+.img{
+    overflow: hidden;
+    height: 20px;
+}
+.text{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.human{
+    border-right: 1px solid green;
+}
+.human-choice{
+    color: seagreen;
+}
+.bot-choice{
+    color: rgba(255, 81, 0, 0.432);
+}
+h3{
+ font-family: 'Times New Roman', Times, serif;
+}
